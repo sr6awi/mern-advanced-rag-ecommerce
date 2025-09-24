@@ -71,39 +71,3 @@ This project combines modern **e-commerce features** with **AI-powered conversat
          │ Contextual Answers    │
          └───────────────────────┘
 
-
-
-
-
-# 🚀 Getting Started
-
-### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/sr6awi/mern-advanced-rag-ecommerce.git
-cd mern-advanced-rag-ecommerce
-2️⃣ Setup backend
-bash
-Copy code
-cd backend
-npm install
-npm run dev
-3️⃣ Setup frontend
-bash
-Copy code
-cd frontend
-npm install
-npm start
-
-🎓 About
-Built as a portfolio-grade project demonstrating:
-
-Full-stack MERN expertise
-
-Production-ready RAG integration
-
-Hands-on design of scalable AI + e-commerce systems
-
-📬 Contact
-👤 Salem Ihsan Abidrabbu
-🔗 LinkedIn | GitHub
-📧 SALEMIHSAN1234@GMAIL.COM
